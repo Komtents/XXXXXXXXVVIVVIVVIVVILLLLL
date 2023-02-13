@@ -1,0 +1,7 @@
+name: $pluginName
+main: $pluginMain
+api-version: "1.18"
+version: $version
+libraries:
+  - io.github.monun:tap-core:4.4.0
+  - io.github.monun:kommand-core:2.10.0
